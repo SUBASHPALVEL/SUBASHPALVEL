@@ -1,12 +1,15 @@
-# Subash Palvel
+# Subash Palvel 👨‍💻
 
-- Location: Palavanchipalayam, Tirupur.
-- Phone: 6369344901
-- Email: subashpalvel.ai@gmail.com
-- LinkedIn: [Subash Palvel](https://www.linkedin.com/in/subashpalvel)
+- Location: Palavanchipalayam, Tirupur 🌍
+- Phone: 6369344901 ☎️
+- Email: subashpalvel.ai@gmail.com 📧
+- LinkedIn: [Subash Palvel](https://www.linkedin.com/in/subashpalvel) 🔗
 
-## Experience
+## Experience 🚀
 
+- **Zerp Labs** (July 2023 – Now)
+  - Java Intern.
+    
 - **Feynn Labs** (Jan 2023 – Mar 2023)
   - Machine Learning Intern
   - Developed Currency Note Detection System.
@@ -63,7 +66,7 @@
   - App Developer
   - Developed apps using Flutter, Dart and worked with GPS tracking and firebase.
 
-## Education
+## Education 📚
 
 - **Jansons Institute of Technology** (2024)
   - B.Tech. Artificial Intelligence and Data Science (3rd year)
@@ -77,31 +80,7 @@
   - SSC
   - Score: 485/500
 
-## Projects
-
-- Hospital Management System in Java.
-- Algorithmic trading using Python.
-- JIT Student App using Flutter and Dart.
-- Web scraper using Python.
-- Car Price Prediction web app using Flask.
-- Analysis of Meteorological data.
-- AI – Flappy Bird game using Generic algorithm.
-- Formula One Analysis Report using PowerBI.
-- Recommendation system using Eclat algorithm.
-- Pokémon Analysis using R.
-- Recognizing Handwritten Digits using Python.
-- Duck using Blender.
-- AI Chatbot using NLP.
-- Time Series Analysis using Python.
-- Credit card fraud detection using Python.
-- AI Music Generator using LSTM.
-- Bird Classifier using CNN.
-- Red Wave Blood Donation webapp using HTML, CSS and PHP.
-- Currency Note Detection using Tensorflow.
-- Clinical Decision Support System using Python and Flask.
-- Fashion Similarity Search Engine in Python.
-
-## Achievements
+## Achievements 🏆
 
 - Achieved the best project award in Intel OneAPI Hackathon.
 - Secured both second and third place in Intel OneAPI Hackathon.
@@ -114,6 +93,6 @@
 - Secured runner place in district level 200m race.
 - Secured first place in district level volleyball match.
 
-## Skills
+## Skills 🔧
 
 - Python, Flutter, HTML, Java, Power BI, CSS, R, Tableau, PHP, C, IBM Cognos Analytics, JavaScript, C+, Microsoft Azure, Pyscript, Kotlin, SQL, Tensorflow, Dart, Pyspark, NLP, Solidity, Flask, Deep Learning.
