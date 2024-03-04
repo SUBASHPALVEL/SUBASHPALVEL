@@ -8,7 +8,7 @@
 ## Experience 🚀
 
 - **Zerp Labs** (July 2023 – Now)
-  - Java Intern.
+  - AI Intern.
     
 - **Feynn Labs** (Jan 2023 – Mar 2023)
   - Machine Learning Intern
