@@ -7,7 +7,10 @@
 
 ## Experience 🚀
 
-- **Zerp Labs** (July 2023 – Now)
+- **Zerp Labs** (July 2023 – June 2024)
+  - Junior AI Software Developer.
+
+- **Zerp Labs** (July 2023 – June 2024)
   - AI Intern.
     
 - **Feynn Labs** (Jan 2023 – Mar 2023)
