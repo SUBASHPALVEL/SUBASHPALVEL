@@ -11,7 +11,7 @@
   - Junior Software Developer
 
 - **Zerp Labs** (July 2023 – June 2024)
-  - AI Intern
+  - Intern
     
 - **Feynn Labs** (Jan 2023 – Mar 2023)
   - Machine Learning Intern
