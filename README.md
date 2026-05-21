@@ -8,7 +8,7 @@
 ## Experience 🚀
 
 - **Zerp Labs** (July 2024 – Now)
-  - Junior AI Software Developer
+  - Junior Software Developer
 
 - **Zerp Labs** (July 2023 – June 2024)
   - AI Intern
